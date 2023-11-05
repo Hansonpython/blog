@@ -1,5 +1,5 @@
 on:
-  pull_request:
+  page_build:
     branches:
       - master
 jobs:
